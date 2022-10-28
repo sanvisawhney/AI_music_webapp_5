@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+    font-family: 'Emilys Candy', cursive;
+}
+
+.heading{
+    font-size: 30px;
+    margin: 0px;
+    width: 100%;
+}
+
+.note{
+    color: lightblue;
+    font-size: 18px;
+}
+
+canvas{
+    margin-top: 35px;
+    border: 5px white solid;
+    border-radius: 20px;
+}
